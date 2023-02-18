@@ -1,0 +1,9 @@
+body{
+    font-family: 'Mont-Heavy';
+    background-image: url(background.png);
+    background-size: cover;
+}
+@font-face {
+    font-family: 'Mont-Heavy';
+    src: url(Mont-HeavyDEMO.otf);
+}
